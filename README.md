@@ -40,6 +40,12 @@ An Arduino-based project that automatically detects and segregates waste into **
 
 ---
 
+## LCD configration
+
+- **LiquidCrystal_I2C lcd(0x27, 16, 2);
+
+---
+
 ## 💡 Working Logic
 
 1. **IR Sensor** detects the presence of waste.
