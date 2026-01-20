@@ -42,7 +42,7 @@ An Arduino-based project that automatically detects and segregates waste into **
 
 ## LCD configration
 
-- **LiquidCrystal_I2C lcd(0x27, 16, 2);
+- LiquidCrystal_I2C lcd(0x27, 16, 2);
 
 ---
 
